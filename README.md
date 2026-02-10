@@ -1,4 +1,4 @@
-  i'm Irmlol,
-  I am an aspiring Minecraft modder, and software disigner.
-  I am in the process of learning how to mod Minecraft.
+  I'm Irmlol,
+  I am studying computer science at university looking for a software design career
+  I dabble in game dev, and minecraft modding (no finnished products)
   (he/him)
